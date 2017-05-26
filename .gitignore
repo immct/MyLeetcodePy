@@ -48,6 +48,7 @@ coverage.xml
 
 # Translations
 *.mo
+
 *.pot
 
 # Django stuff:
@@ -99,3 +100,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
